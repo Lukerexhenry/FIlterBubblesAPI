@@ -1,0 +1,45 @@
+body {
+	background-color: rgba(214, 228, 234, 0.2);
+}
+
+h1 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	/*font-family: 'Montserrat', sans-serif;*/
+	font-family: 'Pacifico', cursive;
+	
+}
+
+img {
+	max-width: 130px;
+	padding: 15px;
+	border-radius: 50%;
+}
+
+img:hover {
+	/*border: rgba(89, 101, 223, 0.32) 3px solid;*/
+	transition: all 0.2s linear;
+	opacity: 0.4;
+}
+
+.searchBar {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 50%;
+
+}
+
+.DN {
+	background-color: green;
+	color: white;
+	
+}
+
+
+
+#unit2 {
+	display: inline;
+}
+
